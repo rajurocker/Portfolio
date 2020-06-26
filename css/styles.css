@@ -1,0 +1,143 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body, html {
+	background-color: lime;
+}
+
+p {
+	font-family: sans-serif;
+}
+
+.rahul {
+	margin: 30px;
+	font-family: sans-serif;
+	font-size: 45px;
+}
+
+.linav {
+	margin: 10px;
+}
+
+.textNav {
+	background-color: orange;
+	padding: 10px;
+	margin-right: 30px;
+	text-align: center;
+	color: black;
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+.textNav:hover {
+	color: red;
+	text-decoration: none;
+}
+
+.workSkill {
+	padding-top: 150px;
+	text-align: center;
+}
+
+.myInspiration {
+	margin-top: 20px;
+	margin-left: 320px;
+	max-width: 900px;
+	padding-bottom: 150px;
+}
+
+#git {
+	max-width: 120px;
+	margin-left: 45%;
+	padding-bottom: 30px;
+}
+
+.aboutMe {
+	text-align: center;
+}
+
+#Education {
+	font-size: 30px;
+}
+
+#Skill {
+	font-size: 30px;
+}
+
+.aboutOne {
+	margin-left: 40px;
+}
+
+.durText {
+	max-width: 600px;
+	margin-left: 430px;
+	margin-top: -230px;
+	padding-bottom: 140px;
+}
+
+.aboutTwo {
+	margin-left: 40px; 
+}
+
+#Skill {
+	text-align: center;
+}
+
+
+.nameSoft {
+	margin-left: 20px;
+	font-size: 25px;
+}
+
+.project {
+	text-align: center;
+}
+
+.accom {
+	max-width: 500px;
+	margin-left: 90px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+.thisAccom {
+	margin-left: 770px;
+	max-width: 600px;
+	margin-top: -170px;
+	padding-bottom: 100px;
+	font-size: 20px;
+}
+
+.dog {
+	max-width: 500px;
+	margin-left: 90px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.thisDog {
+	margin-left: 770px;
+	max-width: 600px;
+	margin-top: -170px;
+	padding-bottom: 100px;
+	font-size: 20px;
+}
+
+
+.cv {
+	margin: 30px;
+}
+
+.footer {
+	background-color: grey;
+	padding: 30px;
+	text-align: center;
+}
+
+
+
+
